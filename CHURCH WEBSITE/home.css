@@ -1,0 +1,64 @@
+.header{
+    background-color: blue;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+}
+
+li{
+    margin: 10px;
+}
+
+.worship{
+    background-color: lightblue;
+    padding: 100px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.General_Overseer{
+    display: flex;
+    margin: 20px;
+    padding: 50px;
+}
+
+.Data{
+    padding: 20px;
+    font-size: 30px;
+}
+
+.form{
+margin: 20px;
+padding: 20px;
+}
+
+.Programme_of_activities{
+    font-size: 20px;
+    text-align: center;
+    padding: 20PX;
+    background-color: beige;
+}
+
+input{
+    width: 400px;
+    height: 30px;
+    margin-left: 20px;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+    border-radius: 40px;
+}
